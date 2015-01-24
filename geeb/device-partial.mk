@@ -58,6 +58,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/geeb/proprietary/flp.msm8960.so:system/lib/hw/flp.msm8960.so:qcom \
     vendor/qcom/geeb/proprietary/gps.msm8960.so:system/lib/hw/gps.msm8960.so:qcom \
     vendor/qcom/geeb/proprietary/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so:qcom \
+    vendor/qcom/geeb/proprietary/nfc.default.so:system/lib/hw/nfc.default.so:qcom \
     vendor/qcom/geeb/proprietary/libadreno_utils.so:system/vendor/lib/libadreno_utils.so:qcom \
     vendor/qcom/geeb/proprietary/libaudcal.so:system/lib/libaudcal.so:qcom \
     vendor/qcom/geeb/proprietary/libaudioalsa.so:system/lib/libaudioalsa.so:qcom \

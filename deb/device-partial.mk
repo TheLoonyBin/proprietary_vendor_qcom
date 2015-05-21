@@ -28,7 +28,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/deb/proprietary/mm-qcamera-daemon:system/bin/mm-qcamera-daemon:qcom \
     vendor/qcom/deb/proprietary/mm-qjpeg-enc-test:system/bin/mm-qjpeg-enc-test:qcom \
     vendor/qcom/deb/proprietary/mm-qomx-ienc-test:system/bin/mm-qomx-ienc-test:qcom \
-    vendor/qcom/deb/proprietary/mpdecision:system/bin/mpdecision:qcom \
+    vendor/qcom/deb/proprietary/mpdecision:system/bin/mpdecision_disabled:qcom \
     vendor/qcom/deb/proprietary/netmgrd:system/bin/netmgrd:qcom \
     vendor/qcom/deb/proprietary/nl_listener:system/bin/nl_listener:qcom \
     vendor/qcom/deb/proprietary/port-bridge:system/bin/port-bridge:qcom \
@@ -38,7 +38,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/deb/proprietary/radish:system/bin/radish:qcom \
     vendor/qcom/deb/proprietary/rmt_storage:system/bin/rmt_storage:qcom \
     vendor/qcom/deb/proprietary/sensors.qcom:system/bin/sensors.qcom:qcom \
-    vendor/qcom/deb/proprietary/thermald:system/bin/thermald:qcom \
+    vendor/qcom/deb/proprietary/thermald:system/bin/thermald_disabled:qcom \
     vendor/qcom/deb/proprietary/usbhub:system/bin/usbhub:qcom \
     vendor/qcom/deb/proprietary/usbhub_init:system/bin/usbhub_init:qcom \
     vendor/qcom/deb/proprietary/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw:qcom \

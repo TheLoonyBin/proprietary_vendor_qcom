@@ -28,7 +28,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/flo/proprietary/mm-qcamera-daemon:system/bin/mm-qcamera-daemon:qcom \
     vendor/qcom/flo/proprietary/mm-qjpeg-enc-test:system/bin/mm-qjpeg-enc-test:qcom \
     vendor/qcom/flo/proprietary/mm-qomx-ienc-test:system/bin/mm-qomx-ienc-test:qcom \
-    vendor/qcom/flo/proprietary/mpdecision:system/bin/mpdecision_disabled:qcom \
+    vendor/qcom/flo/proprietary/mpdecision:system/bin/mpdecision:qcom \
     vendor/qcom/flo/proprietary/netmgrd:system/bin/netmgrd:qcom \
     vendor/qcom/flo/proprietary/nl_listener:system/bin/nl_listener:qcom \
     vendor/qcom/flo/proprietary/port-bridge:system/bin/port-bridge:qcom \
@@ -38,7 +38,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/flo/proprietary/radish:system/bin/radish:qcom \
     vendor/qcom/flo/proprietary/rmt_storage:system/bin/rmt_storage:qcom \
     vendor/qcom/flo/proprietary/sensors.qcom:system/bin/sensors.qcom:qcom \
-    vendor/qcom/flo/proprietary/thermald:system/bin/thermald_disabled:qcom \
+    vendor/qcom/flo/proprietary/thermald:system/bin/thermald:qcom \
     vendor/qcom/flo/proprietary/usbhub:system/bin/usbhub:qcom \
     vendor/qcom/flo/proprietary/usbhub_init:system/bin/usbhub_init:qcom \
     vendor/qcom/flo/proprietary/DxHDCP.cfg:system/etc/DxHDCP.cfg:qcom \

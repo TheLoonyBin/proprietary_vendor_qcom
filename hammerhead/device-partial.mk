@@ -177,4 +177,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/hammerhead/proprietary/libthermalioctl.so:system/vendor/lib/libthermalioctl.so:qcom \
     vendor/qcom/hammerhead/proprietary/libtime_genoff.so:system/vendor/lib/libtime_genoff.so:qcom \
     vendor/qcom/hammerhead/proprietary/libTimeService.so:system/vendor/lib/libTimeService.so:qcom \
+    vendor/qcom/hammerhead/proprietary/librpmb.so:system/lib/librpmb.so:qcom \
+    vendor/qcom/hammerhead/proprietary/libssd.so:system/lib/libssd.so:qcom \
+    vendor/qcom/hammerhead/proprietary/libfmas.so:system/lib/soundfx/libfmas.so:qcom \
 

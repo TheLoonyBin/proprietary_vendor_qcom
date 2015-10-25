@@ -50,9 +50,14 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/hammerhead/proprietary/libchromatix_mt9m114b_default_video.so:system/lib/libchromatix_mt9m114b_default_video.so:qcom \
     vendor/qcom/hammerhead/proprietary/libchromatix_mt9m114b_preview.so:system/lib/libchromatix_mt9m114b_preview.so:qcom \
     vendor/qcom/hammerhead/proprietary/libchromatix_mt9m114b_snapshot.so:system/lib/libchromatix_mt9m114b_snapshot.so:qcom \
+    vendor/qcom/hammerhead/proprietary/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so:qcom \
     vendor/qcom/hammerhead/proprietary/libdrmdiag.so:system/lib/libdrmdiag.so:qcom \
+    vendor/qcom/hammerhead/proprietary/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so:qcom \
+    vendor/qcom/hammerhead/proprietary/libdrmframework_jni.so:system/lib/libdrmframework_jni.so:qcom \
+    vendor/qcom/hammerhead/proprietary/libdrmframework.so:system/lib/libdrmframework.so:qcom \
     vendor/qcom/hammerhead/proprietary/libdrmfs.so:system/lib/libdrmfs.so:qcom \
     vendor/qcom/hammerhead/proprietary/libdrmtime.so:system/lib/libdrmtime.so:qcom \
+    vendor/qcom/hammerhead/proprietary/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so:qcom \
     vendor/qcom/hammerhead/proprietary/libgps.utils.so:system/lib/libgps.utils.so:qcom \
     vendor/qcom/hammerhead/proprietary/libI420colorconvert.so:system/lib/libI420colorconvert.so:qcom \
     vendor/qcom/hammerhead/proprietary/libloc_core.so:system/lib/libloc_core.so:qcom \
@@ -172,6 +177,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/hammerhead/proprietary/libthermalioctl.so:system/vendor/lib/libthermalioctl.so:qcom \
     vendor/qcom/hammerhead/proprietary/libtime_genoff.so:system/vendor/lib/libtime_genoff.so:qcom \
     vendor/qcom/hammerhead/proprietary/libTimeService.so:system/vendor/lib/libTimeService.so:qcom \
-    vendor/qcom/hammerhead/proprietary/librpmb.so:system/vendor/lib/librpmb.so:qcom \
-    vendor/qcom/hammerhead/proprietary/libssd.so:system/vendor/lib/libssd.so:qcom \
+    vendor/qcom/hammerhead/proprietary/librpmb.so:system/lib/librpmb.so:qcom \
+    vendor/qcom/hammerhead/proprietary/libssd.so:system/lib/libssd.so:qcom \
+    vendor/qcom/hammerhead/proprietary/libfmas.so:system/lib/soundfx/libfmas.so:qcom \
 

@@ -180,4 +180,6 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/hammerhead/proprietary/librpmb.so:system/lib/librpmb.so:qcom \
     vendor/qcom/hammerhead/proprietary/libssd.so:system/lib/libssd.so:qcom \
     vendor/qcom/hammerhead/proprietary/libfmas.so:system/lib/soundfx/libfmas.so:qcom \
+    vendor/qcom/hammerhead/proprietary/serviceitems.jar:system/framework/serviceitems.jar:qcom \
+    vendor/qcom/hammerhead/proprietary/serviceitems.xml:system/etc/permissions/serviceitems.xml:qcom \
 
